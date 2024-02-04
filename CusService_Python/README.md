@@ -1,4 +1,5 @@
 # Project: Customer Support System: Use ChatGPT to build a web-based system that can answer questions about a website.
+[Week 2 HW1 - CS589 - Khoi Duong - 19610.pdf](https://github.com/MynameisKoi/CS589/blob/main/CusService_Python/Week%202%20HW%201%20-%20CS589%20-%20Khoi%20Duong%20-%2019610.pdf)
 
 ## Step 1: Implementation
 ### Step 1.1: Command Line Solution
