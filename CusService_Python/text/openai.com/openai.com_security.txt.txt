@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:disclosure@openai.com
+Expires: 2024-07-27T19:00:00.000Z
+Encryption: https://cdn.openai.com/security/disclosure.asc.pub
+Acknowledgments: https://bugcrowd.com/openai/hall-of-fame
+Preferred-Languages: en
+Canonical: https://openai.com/security.txt
+Policy: https://openai.com/policies/coordinated-vulnerability-disclosure-policy
+Hiring: https://openai.com/careers/search?c=security
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQ5fYPd6Hi19rZDZ+kKj1HZ7OnINQUCZMMV6QAKCRAKj1HZ7OnI
+NQYZAQC7hZInX41wMCT1pPV38iN+3278eLq/onm372VK7nJtAAEAgcM8vNMWm2Xi
+/9kUelKpoJjNkdJV04TN7eJeIUdbIgQ=
+=BYOb
+-----END PGP SIGNATURE-----

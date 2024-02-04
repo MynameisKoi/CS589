@@ -1,0 +1,18 @@
+
+
+
+OpenAI customer story: Wix
+
+
+
+
+
+
+
+
+
+
+
+
+
+CloseSearch Submit Skip to main contentSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer storiesSearch Navigation quick links Log inTry ChatGPTMenu Mobile Navigation CloseSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer stories Quick Links Log inTry ChatGPTSearch Submit Customer storiesWixWix streamlines website content creation with GPT.January 10, 2024More resourcesView productLanguage,Â GPT-4A high-quality website helps businesses and individuals thrive, but building and managing a site is a challenge even for the most technical teams. Wix has been helping make web development accessible to everyone since 2006. AI has long been a focus at Wixâfor example, Wix ADI (Artificial Design Intelligence) launched in 2016 to intelligently generate a siteâs UI.In Wixâs user research, one challenge has stood out time after time: users struggle to write content for their site. Most people lack the expertise to find the right words to describe their brand. Stuck in drafting mode, theyâre unable to launch their sites quickly.When OpenAI released GPT, Wix knew theyâd found the right solution to their problem.Â  Moving quickly to integrate, Wix built the AI Text Creator, which generates a website full of engaging text from just a few user inputs. Users can further customize each text box with the AI Text Creator, where they answer prompts engineered to generate the best titles, taglines, and paragraphs for their site.Â Wixâs AI Text Creator: Generate High-Quality and Tailored Content for Websites0:25âCombining our website building expertise with OpenAIâs GPT models, Wix now provides users with unmatched text quality, which is key to a professional website,â said Hila Gat, Head of Data Science at Wix.Since the rollout of Wixâs AI Text Creator, tasks that in the past, may haveÂ taken users 10 hours are now, may now only take 10 minutes. The value is proven out by metrics: over a period of just a few months, Wix has displayed millions of AI-generated results and is seeing high engagement rates and trends of repeat usage. Additionally, the tool has made a positive impact on Wixâs KPIs, such as conversions to premium subscriptions.Wixâs AI Template Text Creator: Create Content for a New Website Using AI0:13Since the rollout of Wixâs AI Text Creator, tasks that in the past may haveÂ taken users 10 hours are now, may now only take 10 minutes.This is just the beginning: Wix is currently developing many additional OpenAI-powered features to help people work hand-in-hand with AI to build their online presence, giving time back for the many other tasks of running a successful business.Wixâs AI Product Descriptions Generator: Quickly Describe eCommerce Products0:22ResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTCompanyAboutBlogCareersCharterSecurityCustomer storiesSafetyOpenAI Â© 2015âââ2024Terms & policiesPrivacy policyBrand guidelinesSocialTwitterYouTubeGitHubSoundCloudLinkedInBack to top

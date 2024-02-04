@@ -1,0 +1,18 @@
+
+
+
+Introducing the GPT Store
+
+
+
+
+
+
+
+
+
+
+
+
+
+CloseSearch Submit Skip to main contentSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer storiesSearch Navigation quick links Log inTry ChatGPTMenu Mobile Navigation CloseSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer stories Quick Links Log inTry ChatGPTSearch Submit BlogIntroducing the GPT StoreWeâre launching the GPT Store to help you find useful and popular custom versions of ChatGPT.Quick linksExplore GPTsJanuary 10, 2024AuthorsOpenAI Announcements,Â ProductItâs been two months since weÂ announcedÂ GPTs, and users have already created over 3 million custom versions of ChatGPT. Many builders have shared their GPTs for others to use. Today, we're starting to roll out the GPT Store to ChatGPT Plus, Team and Enterprise users so you can find useful and popular GPTs. Visit chat.openai.com/gpts to explore.Discover whatâs trending in the storeThe store features a diverse range of GPTs developed by our partners and the community. Browse popular and trending GPTs on the community leaderboard, with categories like DALLÂ·E, writing, research, programming, education, and lifestyle. New featured GPTs every weekWe will also highlight useful and impactful GPTs. Some of our first featured GPTs include:Personalized trail recommendations from AllTrailsSearch and synthesize results from 200M academic papers with ConsensusExpand your coding skills with Khan Academyâs Code TutorDesign presentations or social posts with CanvaFind your next read with BooksLearn math and science anytime, anywhere with the CK-12 Flexi AI tutorInclude your GPT in the storeBuilding your own GPT is simple and doesn't require any coding skills.If youâd like to share a GPT in the store, youâll need to:Save your GPT for Everyone (Anyone with a link will not be shown in the store).Verify your Builder Profile (Settings â Builder profile â Enable your name or a verified website).Please review our latest usage policies and GPT brand guidelines to ensure your GPT is compliant. To help ensure GPTs adhere to our policies, we've established a new review system in addition to the existing safety measures we've built into our products. The review process includes both human and automated review. Users are also able to report GPTs.Builders can earn based on GPT usageIn Q1 we will launch a GPT builder revenue program. As a first step, US builders will be paid based on user engagement with their GPTs. We'll provide details on the criteria for payments as we get closer.Team and Enterprise customers can manage GPTsToday, we announced our new ChatGPT Team plan for teams of all sizes. Team customers have access to a private section of the GPT Store which includes GPTs securely published to your workspace. The GPT Store will be available soon for ChatGPT Enterprise customers and will include enhanced admin controls like choosing how internal-only GPTs are shared and which external GPTs may be used inside your business. Like all usage on ChatGPT Team and Enterprise, we do not use your conversations with GPTs to improve our models.Explore GPTs at chat.openai.com/gpts.Explore GPTsAuthorsOpenAI View all articlesResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTCompanyAboutBlogCareersCharterSecurityCustomer storiesSafetyOpenAI Â© 2015âââ2024Terms & policiesPrivacy policyBrand guidelinesSocialTwitterYouTubeGitHubSoundCloudLinkedInBack to top

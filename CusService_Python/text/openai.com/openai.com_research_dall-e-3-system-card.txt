@@ -1,0 +1,16 @@
+
+
+
+DALL·E 3 system card
+
+
+
+
+
+
+
+
+
+
+
+CloseSearch Submit Skip to main contentSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer storiesSearch Navigation quick links Log inTry ChatGPTMenu Mobile Navigation CloseSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer stories Quick Links Log inTry ChatGPTSearch Submit ResearchDALLÂ·E 3 system cardOctober 3, 2023More resourcesRead paperSafety & Alignment,Â DALLÂ·E 3,Â PublicationAbstractDALLÂ·E 3 is an artificial intelligence system that takes a text prompt as an input and generates a new image as an output. DALLÂ·E 3 builds on DALLÂ·E 2 by improving caption fidelity and image quality. In this system card, we share the work done to prepare DALLÂ·E 3 for deployment, including our work on external expert red teaming, evaluations of key risks, and mitigations to reduce the risks posed by the model and reduce unwanted behaviors.AuthorsOpenAI ResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTCompanyAboutBlogCareersCharterSecurityCustomer storiesSafetyOpenAI Â© 2015âââ2024Terms & policiesPrivacy policyBrand guidelinesSocialTwitterYouTubeGitHubSoundCloudLinkedInBack to top
