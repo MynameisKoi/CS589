@@ -1,0 +1,16 @@
+
+
+
+Practices for Governing Agentic AI Systems
+
+
+
+
+
+
+
+
+
+
+
+CloseSearch Submit Skip to main contentSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer storiesSearch Navigation quick links Log inTry ChatGPTMenu Mobile Navigation CloseSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer stories Quick Links Log inTry ChatGPTSearch Submit ResearchPractices for Governing Agentic AI SystemsDecember 14, 2023More resourcesRead paperApply for agentic AI research grantResponsible AI,Â Safety & Alignment,Â PublicationAbstractAgentic AI systemsâAI systems that can pursue complex goals with limited direct supervisionâare likely to be broadly useful if we can integrate them responsibly into our society. While such systems have substantial potential to help people more efficiently and effectively achieve their own goals, they also create risks of harm. In this white paper, we suggest a definition of agentic AI systems and the parties in the agentic AI system life-cycle, and highlight the importance of agreeing on a set of baseline responsibilities and safety best practices for each of these parties. As our primary contribution, we offer an initial set of practices for keeping agentsâ operations safe and accountable, which we hope can serve as building blocks in the development of agreed baseline best practices. We enumerate the questions and uncertainties around operationalizing each of these practices that must be addressed before such practices can be codified. We then highlight categories of indirect impacts from the wide-scale adoption of agentic AI systems, which are likely to necessitate additional governance frameworks.Agentic AI research grant programWe are launching a program to award grants of between $10,000âââ$100,000 to fund research into the impacts of agentic AI systems and practices for making them safe.Apply for agentic AI research grantAuthorsLead authorsYonadav ShavitSandhini AgarwalMiles BrundageContributing authorsSteven AdlerCullen OâKeefeRosie CampbellTeddy LeePamela MishkinTyna EloundouAlan HickeyKatarina SlamaLama AhmadPaul McMillanAlex BeutelAlexandre PassosDavid G. RobinsonResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTCompanyAboutBlogCareersCharterSecurityCustomer storiesSafetyOpenAI Â© 2015âââ2024Terms & policiesPrivacy policyBrand guidelinesSocialTwitterYouTubeGitHubSoundCloudLinkedInBack to top

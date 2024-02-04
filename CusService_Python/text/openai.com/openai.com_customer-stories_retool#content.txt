@@ -1,0 +1,18 @@
+
+
+
+OpenAI customer story: Retool
+
+
+
+
+
+
+
+
+
+
+
+
+
+CloseSearch Submit Skip to main contentSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer storiesSearch Navigation quick links Log inTry ChatGPTMenu Mobile Navigation CloseSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer stories Quick Links Log inTry ChatGPTSearch Submit Customer storiesRetoolRetool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.October 11, 2023More resourcesView productLanguage,Â GPT-4Retool is a platform that helps developers build custom business software faster. Businesses use millions of Retool applications and workflows to do everything from scheduling the Olympics, to sending rockets into space, to simply making daily business processes more efficient.âEvery business can improve operations with AI,â said Anthony Guo, Chief Technology Officer at Retool. âMany critical business operationsâthat create trillions of dollars in valueâare stuck on pen and paper or spreadsheets. We want to make building custom AI-powered applications for business more accessible for everyone. And that means making AI actionable with real data and users faster.âIntroducing Retool AI00:26This month, Retool announced Retool AIâa suite of capabilities aimed at lowering the barrier for teams to build AI-powered apps for any business process. Powered by GPT-4, Retool AI turns common AI actions like generating text or describing images into ready-to-use building blocks you can assemble on a visual canvas.Retool launched Retool AI, powered exclusively by OpenAIâs GPT models. âWeâve seen customers use Retool and GPT-4 to build AI-powered inventory management, customer support, and even tailored product experiences that drive huge cost savings,â said Guo. GPT-4 helps companies turn manual work into AI-driven processes. Retool is one place to design, prototype, test, and deploy your AI apps. Together, you get the power of AI and the ability to govern data access and promote secure practices across the company.Anthony Guo, Chief Technology Officer at RetoolOne of the most common use cases for GPT-4 in business processes is building a chatbot experience for support. Because GPT-4 can understand freeform questions and can learn from a companyâs website and docs, itâs possible to build chatbots to help employees and customers find information fasterâwhich can both greatly increase revenue.Build custom AI chatbots with Retool00:31âOpenAI is setting the bar for rapid innovation,â said Cory Wilkerson, Engineering Lead at Retool. âThrough OpenAI, weâre able to equip Retool builders with an entirely new category of smart, LLM-assisted building blocks. The biggest transformation Iâve seen is that applications that felt static or transactional before can now be âactivatedââthereâs a new layer of intelligence that we can bring into apps that just wasnât accessible before.âOver the coming months, Retool will continue to expand the pre-built AI Actions available in the product and develop dozens more app templates to help businesses further accelerate the adoption of AI.ResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTCompanyAboutBlogCareersCharterSecurityCustomer storiesSafetyOpenAI Â© 2015âââ2024Terms & policiesPrivacy policyBrand guidelinesSocialTwitterYouTubeGitHubSoundCloudLinkedInBack to top

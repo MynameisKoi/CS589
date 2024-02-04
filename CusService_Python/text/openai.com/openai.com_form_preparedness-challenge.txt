@@ -1,0 +1,17 @@
+
+
+
+Preparedness Challenge
+
+
+
+
+
+
+
+
+
+
+
+
+CloseSearch Submit Skip to main contentSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer storiesSearch Navigation quick links Log inTry ChatGPTMenu Mobile Navigation CloseSite NavigationResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTSafetyCompanyAboutBlogCareersResidencyCharterSecurityCustomer stories Quick Links Log inTry ChatGPTSearch Submit Preparedness ChallengeTo expand our understanding of areas of concern (and build the team!), we are launching our Preparedness Challenge.Quick linksRead more about our approachApply Responses will be accepted on a rolling basis through December 31, 2023. We will offer $25,000 each in API credits to up to 10 top submissions, publish novel ideas and entries, and look for candidates for Preparedness from among the top contenders in this challenge.  Note: Participants are responsible for ensuring that they are authorized to share any information provided to OpenAI as part of this challenge. Please do not submit any sensitive information, including confidential information, government classified information, or any information that would require a government license for release or export. First nameâ*Last nameâ*Emailâ*LinkedIn / resume URLâ* Imagine we gave you unrestricted access to OpenAI's Whisper (transcription), Voice (text-to-speech), GPT-4V, and DALLEÂ·3 models, and you were a malicious actor. Consider the most unique, while still being probable, potentially catastrophic misuse of the model. You might consider misuse related to the categories discussed in the blog post, or another category. For example, a malicious actor might use GPT-4, Whisper and Voice to socially engineer workers at critical infrastructure facilities into installing malware, allowing shutdown of the power grid. What is the misuse youâll be writing about?â*Maximum 20 wordsDescribe this misuse. Why might it lead to catastrophic harm and what would the harm be?â*Maximum 100 wordsOutline how you envision someone executing such a misuse in the real world assuming you have unrestricted access to our models. Please be specific (e.g., provide proof of concept, detailed step by step instructions).â*Link directly to a 3 page max PDF. Links to download a PDF will not be accepted. Now, imagine you have joined the Preparedness team. Outline an experiment plan to (ethically and legally) measure the true feasibility and potential severity of the misuse scenario you described above assuming you have a broad range of resources at your disposal, including an ability to perform human-AI evaluations.â*Maximum 300 wordsDetail potential actions that might mitigate the risk you identified.â*Maximum 150 wordsSubmitResearchOverviewIndexGPT-4DALLÂ·E 3APIOverviewPricingDocsChatGPTOverviewTeamEnterprisePricingTry ChatGPTCompanyAboutBlogCareersCharterSecurityCustomer storiesSafetyOpenAI Â© 2015âââ2024Terms & policiesPrivacy policyBrand guidelinesSocialTwitterYouTubeGitHubSoundCloudLinkedInBack to top

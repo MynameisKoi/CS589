@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>OpenAI Quickstart</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='dog.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}" />
+</head>
+
+<body>
+    <h1>Question Result</h1>
+    <p><strong>Question:</strong> {{ question }}</p>
+    <p><strong>Answer:</strong> {{ answer }}</p>
+    <a href="/">Ask Another Question</a>
+</body>
+
+</html>
