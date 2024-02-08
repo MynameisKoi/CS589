@@ -1,44 +1,31 @@
-# OpenAI API Quickstart - Node.js example app
+# Project: Customer Support System: Use ChatGPT to build a web-based system that can answer questions about a website.
+[Week 2 HW1 - CS589 - Khoi Duong - 19610.pdf](https://github.com/MynameisKoi/CS589/blob/main/CusService_Python/Week%202%20HW%202%20-%20CS589%20-%20Khoi%20Duong%20-%2019610.pdf)
 
-This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
+## Step 1: Implementation
+### Step 1.1: Command Line Solution
+Please follow this OpenAI document - Website Q&A with Embeddings to build an AI that can answer questions about a website.
+#### 1.1.1 : Make it work on Jupyter Notebook
+After this step, asking ChatGPT questions about the website will be hardcoded in Python programs running on Jupyter Notebook.
+#### Step 1.1.2 : Make it work on your local machine.
+Export the Python code from Jupyter Notebook and prove that it also works on your local machine, which is the final "Command Line Solution".
 
-![Text box that says name my pet with an icon of a dog](https://user-images.githubusercontent.com/10623307/213887080-b2bc4645-7fdb-4dbd-ae42-efce00d0dc29.png)
-
-
-## Setup
-
-1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
-
-2. Clone this repository
-
-3. Navigate into the project directory
-
-   ```bash
-   $ cd openai-quickstart-node
-   ```
-
-4. Install the requirements
-
-   ```bash
-   $ npm install
-   ```
-
-5. Make a copy of the example environment variables file
-
-   On Linux systems: 
-   ```bash
-   $ cp .env.example .env
-   ```
-   On Windows:
-   ```powershell
-   $ copy .env.example .env
-   ```
-6. Add your [API key](https://platform.openai.com/account/api-keys) to the newly created `.env` file
-
-7. Run the app
-
-   ```bash
-   $ npm run dev
-   ```
-
-You should now be able to access the app at [http://localhost:3000](http://localhost:3000)! For the full context behind this example app, check out the [tutorial](https://platform.openai.com/docs/quickstart).
+**Note:**
+The following steps are to enhance the "Command Line Solution" to let users ask ChatGPT questions about the website through a web-based user interface running on Ubuntu.
+### Step 1.2: Web-based Solution (Python Flask webserver)
+Enhance the result of Step 1.1 to allow users to ask questions about the website using a browser. - Python based
+#### Step 1.2.1: Study how to use Python to create a web-based interface to ChatGPT
+**Note:**
+The Python program should be run on Ubuntu
+#### Step 1.2.2: Integrate the Python code created in Step 1.1 and Step 1.2.1 to a create a web-based interface to let the users ask ChatGPT questions about the website using a browser.
+**Note:**
+*There are 3 approaches for customers to use your system*
+- Customers need to install your software
+    - Command-based (i.e., Step 1.1)
+    - GUI-based
+- Customers does not need to install your software
+    - Web-based (i.e., Step 1.2.2)
+- Step 1.1 represents command-based python code, Step 1.2.1 represents web-based python code. What we want is to move the result of Step 1.1 to Step 1.2.1. There are two ways to do that
+    - Move the code slowly
+      - You move line by line from one python code (i.e. the one that is command-based) to the target python code (i.e., the one that is web-based). If a line works, then move to another line.
+    - Move the code faster
+      - Comparing one python code (i.e. the one that is command-based) with the target python code (i.e., the one that is web-based) and then determine how to improve the target code to have the behavior of the command-based Python code.
