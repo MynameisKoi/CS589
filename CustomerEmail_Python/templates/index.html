@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Comment and Email Generator</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Email to Customer</h1>
+    <form method="POST">
+      <label for="language">Select Language:</label>
+      <select name="language" id="language" class="language-select">
+        <option value="English">English</option>
+        <option value="Spanish">Spanish</option>
+        <option value="Chinese">Chinese</option>
+        <option value="Japanese">Japanese</option>
+        <option value="Korean">Korean</option>
+        <option value="French">French</option>
+        <option value="German">German</option>
+        <option value="Italian">Italian</option>
+        <option value="Portuguese">Portuguese</option>
+        <option value="Russian">Russian</option>
+        <option value="Arabic">Arabic</option>
+        <option value="Vietnamese">French</option>
+        <!-- Add more language options as needed -->
+      </select>
+      <input type="submit" value="Generate" class="submit-button">
+      <div class="translate-options">
+        <label for="translate-comment">Translate Comment:</label>
+        <input type="checkbox" name="translate-comment" id="translate-comment" class="translate-checkbox">
+        <label for="translate-email">Translate Email:</label>
+        <input type="checkbox" name="translate-email" id="translate-email" class="translate-checkbox">
+      </div>
+    </form>
+    <div class="result-container">
+      {% if comment %}
+      <div class="result-section">
+        <div class="left-section">
+          <h2>Comment:</h2>
+          <p>{{ comment }}</p>
+        </div>
+        <div class="right-section">
+          <h2>Email:</h2>
+          <div class="email-content">
+            {{ email | safe }}
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</body>
+
+</html>
