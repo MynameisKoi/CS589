@@ -1,0 +1,14 @@
+openai
+python-dotenv
+langchain
+datetime
+wikipedia
+langchain_experimental
+langchain_openai
+numexpr
+pypdf
+yt_dlp
+pydub
+chromadb==0.4.3
+panel
+langchain[docarray]
