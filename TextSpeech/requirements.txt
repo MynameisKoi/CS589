@@ -1,0 +1,17 @@
+openai
+python-dotenv
+langchain
+datetime
+wikipedia
+langchain_experimental
+langchain_openai
+numexpr
+pypdf
+yt_dlp
+pydub
+chromadb
+SpeechRecognition
+openai-whisper
+torch
+gTTS
+pyaudio
