@@ -1,3 +1,4 @@
+import time
 from pydub import AudioSegment
 from pydub.playback import play
 import speech_recognition as sr
@@ -36,13 +37,15 @@ def main(model, english, energy, pause, dynamic_energy, wake_word, verbose):
 
     threading.Thread(target=record_audio, args=(audio_queue, energy, pause, dynamic_energy,)).start()
     threading.Thread(target=transcribe_forever, args=(audio_queue, result_queue, audio_model, english, wake_word, verbose,)).start()
-    threading.Thread(target=reply, args=(result_queue,)).start()
+    threading.Thread(target=reply, args=(result_queue,verbose,)).start()
 
     while True:
         print(result_queue.get())
 
 def record_audio(audio_queue, energy, pause, dynamic_energy):
     r = sr.Recognizer()
+    # print("List microphone")                      # use to debug, if microphones not found
+    # print(sr.Microphone.list_microphone_names())  # then we need to change the env since it doesn't support audio
     r.energy_threshold = energy
     r.pause_threshold = pause
     r.dynamic_energy_threshold = dynamic_energy
@@ -73,27 +76,52 @@ def transcribe_forever(audio_queue, result_queue, audio_model, english, wake_wor
             punc = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
             predicted_text = predicted_text.translate({ord(i): None for i in punc})
             if verbose:
-                print("You said the wake word.. Processing {}...".format(predicted_text))
+                print("You said the wake word.. Processing ...")
+                print("You said:" + predicted_text)
 
-            result_queue.put_nowait(predicted_text)
+                result_queue.put_nowait(predicted_text)
         else:
             if verbose:
                 print("You did not say the wake word.. Ignoring")
 
-def reply(result_queue):
+def reply(result_queue, verbose):
     while True:
-        result = result_queue.get()
+        question = result_queue.get()
+        # We use the following format for the prompt: "Q: ?\nA:"
+        prompt = "Q: {}?\nA:".format(question)
+
         data = openai.Completion.create(
-            model="text-davinci-002",
-            prompt=result,
-            temperature=0,
-            max_tokens=150,
+            model="gpt-3.5-turbo-instruct",
+            prompt=prompt,
+            temperature=0.5,
+            max_tokens=100,
+            n=1,
+            stop=["\n"]
         )
-        answer = data["choices"][0]["text"]
-        mp3_obj = gTTS(text=answer, lang="en", slow=False)
+
+        # We catch the exception in case there is no answer
+        try:
+            answer = data["choices"][0]["text"]
+            print("The answer content:" + answer)
+            print("Transform the answer to mp3... Result will be in reply.mp3!")
+            mp3_obj = gTTS(text=answer, lang="en", slow=False)
+        except Exception as e:
+            choices = [
+                "I'm sorry, I don't know the answer to that",
+                "I'm not sure I understand",
+                "I'm not sure I can answer that",
+                "Please repeat the question in a different way"
+            ]
+            answer = choices[np.random.randint(0, len(choices))]
+            print("The answer content:" + answer)
+            print("Transform the answer to mp3... Result will be in reply.mp3!")
+            mp3_obj = gTTS(text=answer, lang="en", slow=False)
+            if verbose:
+                print(e)
+
+        # In both cases, we play the audio
         mp3_obj.save("reply.mp3")
         reply_audio = AudioSegment.from_mp3("reply.mp3")
         play(reply_audio)
-        os.remove("reply.mp3")
 
 main()

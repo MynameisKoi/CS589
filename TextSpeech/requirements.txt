@@ -1,4 +1,5 @@
-openai
+pydub
+openai==0.28
 python-dotenv
 langchain
 datetime
@@ -8,10 +9,12 @@ langchain_openai
 numexpr
 pypdf
 yt_dlp
-pydub
 chromadb
 SpeechRecognition
 openai-whisper
 torch
 gTTS
 pyaudio
+
+
+
